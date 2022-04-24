@@ -1,11 +1,11 @@
 # Speech-Recognition
-DNN that allows to recognize digits from audio records
+DNN that allows to recognize digits from audio records  
 A link to the code at Jupyter nbviewer: https://nbviewer.org/github/Carolus-XII-Rex/Speech-Recognition/blob/master/AudioRecognition.ipynb (allows to see the IPython widgets)  
 
 
 ## Tasking
 
-This is an academic assignment completed by me during the study at Lomonosov Moscow State University. 
+This is an academic assignment completed by me during the study at Lomonosov Moscow State University.  
 This is the design situation: given audio records of digits pronounced by different people, a list of “telephone numbers” must be recognized. 
 A “telephone number” consists of 10 random digits recorded in one audio file.
 The algorithm can be split into two parts: 
